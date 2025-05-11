@@ -4,7 +4,7 @@ import lombok.Data;
 
 // JSON에서 객체
 @Data
-public class CredentialInfo {
+public class JsonInfo {
     private String username;
     private String access_key_id;
     private String secret_access_key;
