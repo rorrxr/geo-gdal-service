@@ -1,4 +1,4 @@
-package com.minju.geogdalservice.component;
+package com.minju.geogdalservice.util;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.minju.geogdalservice.entity.JsonInfo;
 import lombok.RequiredArgsConstructor;
